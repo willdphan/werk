@@ -1,17 +1,13 @@
-# Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners
-![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
+# Werk
 
-## Introduction
-The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
+A job search app.
 
-Alongside building this application, you'll also learn how to:
-- develop visually appealing UI/UX designs
-- fetch data from an external API and integrate it
-- implement search & pagination functionality
-- create customAPI data fetching hooks
-- write clean, organized, and maintainable code with proper architecture
-- follow the best practices for React Native development
+## Description
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Werk is a powerful React Native application designed to streamline your job search in the tech industry.
+
+With its intuitive user interface and advanced search capabilities, Werk makes the job hunting process seamless. Our app aggregates job listings from various reputable sources with the (JSearchAPI)[https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch], including top job boards and company websites, and presents them in one centralized platform.
+
+## License
+
+This script is open-source and licensed under the MIT License. For more details, check the [LICENSE](LICENSE) file.
