@@ -1,6 +1,6 @@
 # Werk
 
-A job search app.
+A job search app to find some werk.
 
 ## Description
 
